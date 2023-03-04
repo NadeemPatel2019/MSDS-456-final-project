@@ -116,7 +116,7 @@ Date,Team,Acquired,Relinquished,Notes
 11/1/2010,Raptors,Joey Dorsey,,activated from IL
 11/1/2010,Spurs,,Alonzo Gee,placed on IL
 11/1/2010,Spurs,Tiago Splitter,,activated from IL
-11/2/2010,Blazers,,Patrick Mills / Patty Mills,placed on IL
+11/2/2010,Blazers,,Patty Mills,placed on IL
 11/2/2010,Blazers,Elliot Williams,,activated from IL
 11/2/2010,Cavaliers,,Antawn Jamison,placed on IL with sore left knee
 11/2/2010,Cavaliers,Maurice Williams / Mo Williams,,activated from IL
@@ -140,7 +140,7 @@ Date,Team,Acquired,Relinquished,Notes
 11/3/2010,Spurs,Alonzo Gee,,activated from IL
 11/3/2010,Timberwolves,,Michael Beasley,placed on IL with bruised left hip
 11/3/2010,Timberwolves,Maurice Ager,,activated from IL
-11/4/2010,Blazers,Patrick Mills / Patty Mills,,activated from IL
+11/4/2010,Blazers,Patty Mills,,activated from IL
 11/4/2010,Knicks,,Shawne Williams,placed on IL
 11/4/2010,Knicks,Anthony Randolph,,activated from IL
 11/5/2010,Grizzlies,,Hamed Haddadi,placed on IL
@@ -1871,7 +1871,7 @@ Date,Team,Acquired,Relinquished,Notes
 1/3/2012,Kings,DeMarcus Cousins,,activated from IL
 1/3/2012,Lakers,,Josh McRoberts,placed on IL with toe injury
 1/3/2012,Lakers,Darius Morris,,activated from IL
-1/3/2012,Rockets,,Marcus Morris,placed on IL
+1/3/2012,Rockets,,Marcus Morris Sr.,placed on IL
 1/3/2012,Rockets,Hasheem Thabeet,,activated from IL
 1/3/2012,Thunder,,Thabo Sefolosha,placed on IL with flu-like symptoms
 1/3/2012,Thunder,Royal Ivey,,activated from IL
@@ -2264,7 +2264,7 @@ Date,Team,Acquired,Relinquished,Notes
 2/20/2012,Spurs,,Tiago Splitter,placed on IL with strained right calf
 2/20/2012,Timberwolves,,Darko Milicic,placed on IL with stomach injury
 2/20/2012,Timberwolves,Anthony Randolph,,activated from IL
-2/20/2012,Rockets,Marcus Morris,,activated from IL
+2/20/2012,Rockets,Marcus Morris Sr.,,activated from IL
 2/21/2012,Kings,,John Salmons,placed on IL with hip injury
 2/21/2012,Kings,Tyler Honeycutt,,activated from IL
 2/22/2012,Bobcats,,Byron Mullens / B.J. Mullens,placed on IL with illness
@@ -2534,7 +2534,7 @@ Date,Team,Acquired,Relinquished,Notes
 3/21/2012,Nuggets,Jordan Hamilton,,activated from IL
 3/21/2012,Nuggets,Julyan Stone,,activated from IL
 3/21/2012,Spurs,,Matt Bonner,placed on IL with back injury (F)
-3/21/2012,Spurs,,Patrick Mills / Patty Mills,placed on IL
+3/21/2012,Spurs,,Patty Mills,placed on IL
 3/21/2012,Thunder,,Daequan Cook,placed on IL with knee injury
 3/21/2012,Timberwolves,,Nikola Pekovic,placed on IL with sore left ankle (F)
 3/21/2012,Blazers,Mehmet Okur,,activated from IL
@@ -2574,7 +2574,7 @@ Date,Team,Acquired,Relinquished,Notes
 3/26/2012,Rockets,,Greg Smith (a),placed on IL (F)
 3/27/2012,76ers,Craig Brackins,,activated from IL (P)
 3/27/2012,Spurs,,Tiago Splitter,placed on IL with back spasms (P)
-3/27/2012,Spurs,Patrick Mills / Patty Mills,,activated from IL
+3/27/2012,Spurs,Patty Mills,,activated from IL
 3/27/2012,Warriors,,Stephen Curry,placed on IL with sprained right ankle (out for season)
 3/28/2012,Bobcats,,Cory Higgins,placed on IL
 3/28/2012,Bobcats,Eduardo Najera,,activated from IL
@@ -3557,7 +3557,7 @@ Date,Team,Acquired,Relinquished,Notes
 2/20/2013,Heat,Udonis Haslem,,activated from IL
 2/20/2013,Pacers,,Miles Plumlee,placed on IL
 2/20/2013,Pacers,David West,,activated from IL
-2/20/2013,Rockets,,Marcus Morris,placed on IL
+2/20/2013,Rockets,,Marcus Morris Sr.,placed on IL
 2/20/2013,Rockets,Greg Smith (a),,activated from IL
 2/20/2013,Rockets,Terrence Jones,,activated from IL
 2/20/2013,Thunder,,Kendrick Perkins,placed on IL with sprained right knee
@@ -3766,7 +3766,7 @@ Date,Team,Acquired,Relinquished,Notes
 3/27/2013,Heat,Dwyane Wade,,activated from IL
 3/27/2013,Nuggets,,Julyan Stone,placed on IL with knee injury
 3/27/2013,Nuggets,Ty Lawson,,activated from IL
-3/27/2013,Spurs,,Patrick Mills / Patty Mills,placed on IL
+3/27/2013,Spurs,,Patty Mills,placed on IL
 3/27/2013,Spurs,Gary Neal,,activated from IL
 3/27/2013,Thunder,,DeAndre Liggins,placed on IL
 3/27/2013,Thunder,Perry Jones III,,activated from IL
@@ -3797,7 +3797,7 @@ Date,Team,Acquired,Relinquished,Notes
 3/31/2013,Cavaliers,Kyrie Irving,,activated from IL
 3/31/2013,Pistons,,Jason Maxiell,placed on IL recovering from surgery on eye to repair detached retina (out for season)
 3/31/2013,Spurs,,Emanuel Ginobili / Manu Ginobili,placed on IL with strained/sore right hamstring
-3/31/2013,Spurs,Patrick Mills / Patty Mills,,activated from IL
+3/31/2013,Spurs,Patty Mills,,activated from IL
 3/31/2013,Wizards,,Nene / Nene Hilario / Maybyner Hilario,placed on IL with sore right knee
 3/31/2013,Wizards,Bradley Beal,,activated from IL
 3/31/2013,Pistons,Will Bynum,,activated from IL
@@ -4045,7 +4045,7 @@ Date,Team,Acquired,Relinquished,Notes
 6/1/2013,Heat,Juwan Howard,,activated from IL
 6/3/2013,Heat,,Juwan Howard,placed on IL
 6/3/2013,Heat,James Jones (b),,activated from IL
-6/13/2013,Spurs,,Patrick Mills / Patty Mills,placed on IL with right foot injury (out for season)
+6/13/2013,Spurs,,Patty Mills,placed on IL with right foot injury (out for season)
 6/13/2013,Spurs,Nando De Colo,,activated from IL
 10/29/2013,76ers,,Jason Richardson,placed on IL recovering from surgery on left knee (out for season)
 10/29/2013,76ers,,Nerlens Noel,placed on IL recovering from surgery on left knee (out for season)
@@ -4713,7 +4713,7 @@ Date,Team,Acquired,Relinquished,Notes
 2/1/2014,Bucks,,John Henson,placed on IL with sprained right wrist
 2/1/2014,Bucks,Zaur Pachulia / Zaza Pachulia,,activated from IL
 2/1/2014,Cavaliers,,Sergey Karasev,placed on IL
-2/1/2014,Grizzlies,,Mike Conley Jr.,placed on IL with sprained right ankle
+2/1/2014,Grizzlies,,Mike Conley,placed on IL with sprained right ankle
 2/1/2014,Jazz,,Jeremy Evans,placed on IL with bruised tailbone
 2/1/2014,Jazz,Marvin Williams,,activated from IL
 2/1/2014,Kings,,Jimmer Fredette,placed on IL with illness
@@ -4801,7 +4801,7 @@ Date,Team,Acquired,Relinquished,Notes
 2/18/2014,Bucks,,Larry Sanders (b),placed on IL recovering from surgery to repair fractured orbital bone
 2/18/2014,Bucks,Caron Butler,,activated from IL
 2/18/2014,Clippers,Willie Green,,activated from IL
-2/18/2014,Grizzlies,Mike Conley Jr.,,activated from IL
+2/18/2014,Grizzlies,Mike Conley,,activated from IL
 2/18/2014,Heat,Dwyane Wade,,activated from IL (CBC)
 2/18/2014,Pacers,,Solomon Hill,placed on IL
 2/18/2014,Pacers,Orlando Johnson,,activated from IL
@@ -5213,7 +5213,7 @@ Date,Team,Acquired,Relinquished,Notes
 10/28/2014,Rockets,,Nick Johnson,placed on IL with strained lower back
 10/28/2014,Spurs,,Kawhi Leonard,placed on IL with infection in right eye
 10/28/2014,Spurs,,Tiago Splitter,placed on IL with strained right calf
-10/28/2014,Spurs,,Patrick Mills / Patty Mills,placed on IL recovering from surgery on right shoulder to repair torn rotator cuff
+10/28/2014,Spurs,,Patty Mills,placed on IL recovering from surgery on right shoulder to repair torn rotator cuff
 10/29/2014,76ers,,Jason Richardson,placed on IL with foot injury / left knee injury (P)
 10/29/2014,76ers,,Jerami Grant,placed on IL with sprained right ankle
 10/29/2014,76ers,,Joel Embiid,placed on IL with right foot injury (out for season)
@@ -5779,7 +5779,7 @@ Date,Team,Acquired,Relinquished,Notes
 12/28/2014,Mavericks,Raymond Felton,,activated from IL
 12/28/2014,Spurs,,(William) Tony Parker,placed on IL with strained hamstring
 12/28/2014,Celtics,James Young,,activated from IL
-12/28/2014,Spurs,Patrick Mills / Patty Mills,,activated from IL
+12/28/2014,Spurs,Patty Mills,,activated from IL
 12/29/2014,Clippers,,Chris Douglas-Roberts,placed on IL
 12/29/2014,Clippers,Spencer Hawes,,activated from IL
 12/29/2014,Heat,,Justin Hamilton (b),placed on IL with concussion
@@ -5913,7 +5913,7 @@ Date,Team,Acquired,Relinquished,Notes
 1/15/2015,Knicks,Amare Stoudemire / Amar'e Stoudemire,,activated from IL
 1/15/2015,Knicks,Carmelo Anthony,,activated from IL
 1/16/2015,Bulls,,Joakim Noah,placed on IL with sprained right ankle
-1/16/2015,Grizzlies,,Mike Conley Jr.,placed on IL with sprained right ankle
+1/16/2015,Grizzlies,,Mike Conley,placed on IL with sprained right ankle
 1/16/2015,Grizzlies,Russ Smith,,activated from IL
 1/16/2015,Hawks,,Adreian Payne,placed on IL
 1/16/2015,Hawks,Al Horford,,activated from IL
@@ -5942,7 +5942,7 @@ Date,Team,Acquired,Relinquished,Notes
 1/19/2015,Celtics,,James Young,placed on IL with illness
 1/19/2015,Celtics,Tayshaun Prince,,activated from IL
 1/19/2015,Grizzlies,,Russ Smith,placed on IL
-1/19/2015,Grizzlies,Mike Conley Jr.,,activated from IL
+1/19/2015,Grizzlies,Mike Conley,,activated from IL
 1/19/2015,Hawks,,Shelvin Mack,placed on IL with strained left calf
 1/19/2015,Hawks,Pero Antic,,activated from IL
 1/19/2015,Hornets,,Kemba Walker,placed on IL with left knee injury
@@ -6316,7 +6316,7 @@ Date,Team,Acquired,Relinquished,Notes
 3/11/2015,Rockets,Nick Johnson,,activated from IL
 3/11/2015,Suns,,Brandon Knight,placed on IL with sprained left ankle
 3/11/2015,Pistons,,Quincy Miller,placed on IL
-3/12/2015,Grizzlies,,Mike Conley Jr.,placed on IL for rest
+3/12/2015,Grizzlies,,Mike Conley,placed on IL for rest
 3/12/2015,Grizzlies,,Tony Allen,placed on IL for rest
 3/12/2015,Grizzlies,Jarnell Stokes,,activated from IL
 3/12/2015,Grizzlies,Russ Smith,,activated from IL
@@ -6372,7 +6372,7 @@ Date,Team,Acquired,Relinquished,Notes
 3/20/2015,Clippers,,Glen Davis,placed on IL with illness
 3/20/2015,Clippers,C.J. Wilcox,,activated from IL
 3/20/2015,Grizzlies,,Russ Smith,placed on IL
-3/20/2015,Grizzlies,Mike Conley Jr.,,activated from IL
+3/20/2015,Grizzlies,Mike Conley,,activated from IL
 3/20/2015,Heat,Zoran Dragic,,activated from IL
 3/20/2015,Hornets,,Noah Vonleh,placed on IL
 3/20/2015,Hornets,,Troy Daniels,placed on IL
@@ -6546,7 +6546,7 @@ Date,Team,Acquired,Relinquished,Notes
 4/9/2015,Warriors,,Leandro Barbosa,placed on IL with Achilles injury
 4/9/2015,Warriors,James Michael McAdoo / James McAdoo (Michael),,activated from IL
 4/10/2015,Cavaliers,,Iman Shumpert,placed on IL with sore right quadriceps
-4/10/2015,Grizzlies,,Mike Conley Jr.,placed on IL with sprained foot
+4/10/2015,Grizzlies,,Mike Conley,placed on IL with sprained foot
 4/10/2015,Grizzlies,Russ Smith,,activated from IL
 4/10/2015,Hawks,,Thabo Sefolosha,"placed on IL with fractured fibula, ligament damage in leg (out for season)"
 4/10/2015,Hawks,John Jenkins,,activated from IL
@@ -6615,7 +6615,7 @@ Date,Team,Acquired,Relinquished,Notes
 4/19/2015,Clippers,,Jordan Hamilton,placed on IL with concussion
 4/19/2015,Grizzlies,,Jarnell Stokes,placed on IL (out for season)
 4/19/2015,Grizzlies,,Russ Smith,placed on IL
-4/19/2015,Grizzlies,Mike Conley Jr.,,activated from IL
+4/19/2015,Grizzlies,Mike Conley,,activated from IL
 4/19/2015,Grizzlies,Tony Allen,,activated from IL
 4/19/2015,Hawks,,Austin Daye,placed on IL
 4/19/2015,Hawks,Mike Scott,,activated from IL
@@ -6643,7 +6643,7 @@ Date,Team,Acquired,Relinquished,Notes
 4/25/2015,Nets,,Cory Jefferson,placed on IL (out for season)
 4/25/2015,Nets,Earl Clark,,activated from IL
 4/25/2015,Warriors,James Michael McAdoo / James McAdoo (Michael),,activated from IL
-4/27/2015,Grizzlies,,Mike Conley Jr.,placed on IL recovering from surgery to repair facial fracture near left eye
+4/27/2015,Grizzlies,,Mike Conley,placed on IL recovering from surgery to repair facial fracture near left eye
 4/27/2015,Grizzlies,Beno Udrih,,activated from IL
 5/3/2015,Warriors,,Brandon Rush,placed on IL
 5/3/2015,Warriors,James Michael McAdoo / James McAdoo (Michael),,activated from IL
@@ -6654,7 +6654,7 @@ Date,Team,Acquired,Relinquished,Notes
 5/4/2015,Clippers,,Chris Paul,placed on IL with strained hamstring
 5/4/2015,Clippers,Jordan Hamilton,,activated from IL
 5/5/2015,Grizzlies,,Russ Smith,placed on IL
-5/5/2015,Grizzlies,Mike Conley Jr.,,activated from IL
+5/5/2015,Grizzlies,Mike Conley,,activated from IL
 5/5/2015,Wizards,,John Wall (a),placed on IL with fractured left hand/wrist
 5/5/2015,Wizards,Will Bynum,,activated from IL
 5/8/2015,Clippers,,Jordan Hamilton,placed on IL with concussion (out for season)
@@ -8700,7 +8700,7 @@ Date,Team,Acquired,Relinquished,Notes
 12/5/2016,Celtics,Jordan Mickey,,activated from IL
 12/5/2016,Lakers,Ivica Zubac,,activated from IL
 12/6/2016,Grizzlies,,Brandan Wright,placed on IL with left ankle injury
-12/6/2016,Grizzlies,,Mike Conley Jr.,placed on IL with sore lower back
+12/6/2016,Grizzlies,,Mike Conley,placed on IL with sore lower back
 12/6/2016,Knicks,,Marshall Plumlee,placed on IL
 12/6/2016,Knicks,Courtney Lee,,activated from IL
 12/6/2016,Pistons,,Michael Gbinije,placed on IL
@@ -8819,7 +8819,7 @@ Date,Team,Acquired,Relinquished,Notes
 12/16/2016,Celtics,,Demetrius Jackson,placed on IL
 12/16/2016,Celtics,Isaiah Thomas,,activated from IL
 12/16/2016,Grizzlies,,Wade Baldwin IV,placed on IL
-12/16/2016,Grizzlies,Mike Conley Jr.,,activated from IL
+12/16/2016,Grizzlies,Mike Conley,,activated from IL
 12/16/2016,Kings,,Omri Casspi,placed on IL with illness
 12/16/2016,Kings,Ben McLemore,,activated from IL
 12/16/2016,Lakers,,Ivica Zubac,placed on IL
@@ -9867,7 +9867,7 @@ Date,Team,Acquired,Relinquished,Notes
 4/5/2017,Celtics,Avery Bradley,,activated from IL
 4/5/2017,Clippers,,Austin Rivers,placed on IL with strained left hamstring
 4/5/2017,Clippers,Wesley Johnson / Wes Johnson,,activated from IL
-4/5/2017,Grizzlies,,Mike Conley Jr.,placed on IL with laceration above right eye
+4/5/2017,Grizzlies,,Mike Conley,placed on IL with laceration above right eye
 4/5/2017,Lakers,,D'Angelo Russell,placed on IL with sore left knee
 4/5/2017,Lakers,Tarik Black,,activated from IL
 4/5/2017,Nuggets,,Malik Beasley,placed on IL
@@ -9898,7 +9898,7 @@ Date,Team,Acquired,Relinquished,Notes
 4/6/2017,Wizards,Chris McCullough,,activated from IL
 4/6/2017,Knicks,Kristaps Porzingis,,activated from IL
 4/7/2017,Grizzlies,,Jarell Martin,placed on IL
-4/7/2017,Grizzlies,Mike Conley Jr.,,activated from IL
+4/7/2017,Grizzlies,Mike Conley,,activated from IL
 4/7/2017,Hawks,,Paul Millsap,placed on IL with sore left knee
 4/7/2017,Hawks,Kris Humphries,,activated from IL
 4/7/2017,Jazz,,Raulzinho Neto / Raul Neto,placed on IL with strained right groin
@@ -10116,7 +10116,7 @@ Date,Team,Acquired,Relinquished,Notes
 10/17/2017,Celtics,,Guerschon Yabusele,placed on IL with illness
 10/17/2017,Celtics,,Jabari Bird,placed on IL
 10/17/2017,Celtics,,Kadeem Allen,placed on IL
-10/17/2017,Celtics,,Marcus Morris,placed on IL with sore right knee
+10/17/2017,Celtics,,Marcus Morris Sr.,placed on IL with sore right knee
 10/17/2017,Grizzlies,,Ben McLemore,placed on IL recovering from surgery on right foot to repair fracture
 10/17/2017,Grizzlies,,Wayne Selden Jr.,placed on IL with right quadriceps injury
 10/17/2017,Heat,,Rodney McGruder,placed on IL recovering from surgery on lower left leg to repair stress fracture
@@ -10415,7 +10415,7 @@ Date,Team,Acquired,Relinquished,Notes
 11/3/2017,76ers,,Furkan Korkmaz,placed on IL
 11/3/2017,76ers,Richaun Holmes,,activated from IL
 11/3/2017,Cavaliers,,Tristan Thompson,placed on IL with strained left calf
-11/3/2017,Celtics,Marcus Morris,,activated from IL
+11/3/2017,Celtics,Marcus Morris Sr.,,activated from IL
 11/3/2017,Hornets,,Marcus Paige,placed on IL
 11/3/2017,Hornets,Michael Carter-Williams,,activated from IL
 11/3/2017,Lakers,,Andrew Bogut,placed on IL with tightness in back
@@ -10447,7 +10447,7 @@ Date,Team,Acquired,Relinquished,Notes
 11/5/2017,Spurs,,Derrick White,placed on IL with fractured right wrist
 11/5/2017,Wizards,,John Wall (a),placed on IL with sprained left shoulder
 11/5/2017,Heat,Derrick Walton Jr.,,activated from IL
-11/6/2017,Celtics,,Marcus Morris,placed on IL with rehab of left knee
+11/6/2017,Celtics,,Marcus Morris Sr.,placed on IL with rehab of left knee
 11/6/2017,Hawks,,Mike Muscala,placed on IL with sprained left ankle
 11/6/2017,Nets,,Jarrett Allen,placed on IL with strained left foot
 11/6/2017,Nets,Quincy Acy,,activated from IL
@@ -10471,7 +10471,7 @@ Date,Team,Acquired,Relinquished,Notes
 11/7/2017,Raptors,Alfonzo McKinnie,,activated from IL
 11/8/2017,Celtics,,Al Horford,placed on IL with concussion
 11/8/2017,Celtics,,Jabari Bird,placed on IL
-11/8/2017,Celtics,Marcus Morris,,activated from IL
+11/8/2017,Celtics,Marcus Morris Sr.,,activated from IL
 11/8/2017,Heat,,Tyler Johnson,placed on IL with illness
 11/8/2017,Knicks,,Kristaps Porzingis,placed on IL with sprained left ankle
 11/8/2017,Knicks,Mindaugas Kuzminskas,,activated from IL
@@ -10568,7 +10568,7 @@ Date,Team,Acquired,Relinquished,Notes
 11/15/2017,Blazers,Meyers Leonard,,activated from IL
 11/15/2017,Bucks,Gary Payton II,,activated from IL
 11/15/2017,Bulls,Antonio Blakeney,,activated from IL
-11/15/2017,Grizzlies,,Mike Conley Jr.,placed on IL with sore left Achilles (out for season)
+11/15/2017,Grizzlies,,Mike Conley,placed on IL with sore left Achilles (out for season)
 11/15/2017,Hawks,Ersan Ilyasova,,activated from IL
 11/15/2017,Heat,Tyler Johnson,,activated from IL
 11/15/2017,Hornets,,Treveon Graham,placed on IL with bruised right quadriceps
@@ -10696,7 +10696,7 @@ Date,Team,Acquired,Relinquished,Notes
 11/25/2017,76ers,Jacob Pullen,,activated from IL
 11/25/2017,Bucks,,D.J. Wilson,placed on IL
 11/25/2017,Bucks,John Henson,,activated from IL
-11/25/2017,Celtics,,Marcus Morris,placed on IL
+11/25/2017,Celtics,,Marcus Morris Sr.,placed on IL
 11/25/2017,Celtics,Jabari Bird,,activated from IL
 11/25/2017,Kings,Vince Carter,,activated from IL
 11/25/2017,Pacers,,Victor Oladipo,placed on IL with bruised right knee
@@ -10712,7 +10712,7 @@ Date,Team,Acquired,Relinquished,Notes
 11/26/2017,Grizzlies,Ivan Rabb,,activated from IL
 11/27/2017,76ers,,Jacob Pullen,placed on IL
 11/27/2017,Cavaliers,Iman Shumpert,,activated from IL
-11/27/2017,Celtics,Marcus Morris,,activated from IL
+11/27/2017,Celtics,Marcus Morris Sr.,,activated from IL
 11/27/2017,Knicks,,Ron Baker,placed on IL
 11/27/2017,Knicks,Joakim Noah,,activated from IL
 11/27/2017,Lakers,Larry Nance Jr.,,activated from IL
@@ -11142,7 +11142,7 @@ Date,Team,Acquired,Relinquished,Notes
 12/28/2017,76ers,Justin Anderson,,activated from IL
 12/28/2017,Blazers,,Caleb Swanigan,placed on IL
 12/28/2017,Celtics,,Kadeem Allen,placed on IL
-12/28/2017,Celtics,Marcus Morris,,activated from IL
+12/28/2017,Celtics,Marcus Morris Sr.,,activated from IL
 12/28/2017,Knicks,,Damyean Dotson,placed on IL
 12/28/2017,Knicks,Joakim Noah,,activated from IL
 12/28/2017,Magic,,Jonathan Isaac,placed on IL with sore right ankle
@@ -11231,7 +11231,7 @@ Date,Team,Acquired,Relinquished,Notes
 1/4/2018,Rockets,Chinanu Onuaku,,activated from IL
 1/5/2018,76ers,James Michael McAdoo / James McAdoo (Michael),,activated from IL
 1/5/2018,76ers,Justin Anderson,,activated from IL
-1/5/2018,Celtics,,Marcus Morris,placed on IL with rehab of left knee
+1/5/2018,Celtics,,Marcus Morris Sr.,placed on IL with rehab of left knee
 1/5/2018,Grizzlies,,Andrew Harrison,placed on IL with sore left shoulder
 1/5/2018,Lakers,,Alex Caruso,placed on IL
 1/5/2018,Lakers,Lonzo Ball,,activated from IL
@@ -11240,7 +11240,7 @@ Date,Team,Acquired,Relinquished,Notes
 1/5/2018,Suns,,T.J. Warren,placed on IL with illness
 1/5/2018,Grizzlies,Ivan Rabb,,activated from IL
 1/5/2018,Hawks,,DeAndre' Bembry / DeAndre Bembry,placed on IL with strained left groin
-1/6/2018,Celtics,Marcus Morris,,activated from IL
+1/6/2018,Celtics,Marcus Morris Sr.,,activated from IL
 1/6/2018,Kings,,Zach Randolph,placed on IL reecovering from oral surgery
 1/6/2018,Kings,Jack Cooley,,activated from IL
 1/6/2018,Kings,JaKarr Sampson,,activated from IL
@@ -12103,7 +12103,7 @@ Date,Team,Acquired,Relinquished,Notes
 3/25/2018,Bucks,,Marshall Plumlee,placed on IL
 3/25/2018,Bucks,Giannis Antetokounmpo,,activated from IL
 3/25/2018,Cavaliers,,Jeff Green,placed on IL with illness
-3/25/2018,Celtics,,Marcus Morris,placed on IL with sprained right ankle
+3/25/2018,Celtics,,Marcus Morris Sr.,placed on IL with sprained right ankle
 3/25/2018,Celtics,Jaylen Brown,,activated from IL
 3/25/2018,Raptors,,Malcolm Miller,placed on IL
 3/25/2018,Raptors,C.J. Miles,,activated from IL
@@ -12116,7 +12116,7 @@ Date,Team,Acquired,Relinquished,Notes
 3/26/2018,76ers,,Justin Anderson,placed on IL
 3/26/2018,76ers,Jerryd Bayless,,activated from IL
 3/26/2018,76ers,Markelle Fultz,,activated from IL
-3/26/2018,Celtics,Marcus Morris,,activated from IL
+3/26/2018,Celtics,Marcus Morris Sr.,,activated from IL
 3/26/2018,Grizzlies,,Ivan Rabb,placed on IL with right heel injury
 3/26/2018,Hornets,,Mangok Mathiang,placed on IL
 3/26/2018,Hornets,,Marcus Paige,placed on IL
@@ -12190,7 +12190,7 @@ Date,Team,Acquired,Relinquished,Notes
 3/30/2018,Rockets,James Harden,,activated from IL
 3/30/2018,Rockets,Luc Richard Mbah a Moute / Luc Mbah a Moute,,activated from IL
 3/31/2018,Celtics,,Shane Larkin,placed on IL with illness
-3/31/2018,Celtics,Marcus Morris,,activated from IL
+3/31/2018,Celtics,Marcus Morris Sr.,,activated from IL
 3/31/2018,Kings,Jack Cooley,,activated from IL
 3/31/2018,Knicks,,Enes Kanter,placed on IL with sore lower back (out for season)
 3/31/2018,Knicks,Kyle O'Quinn,,activated from IL
@@ -12318,7 +12318,7 @@ Date,Team,Acquired,Relinquished,Notes
 4/7/2018,Warriors,Kevon Looney,,activated from IL
 4/7/2018,Warriors,Omri Casspi,,activated from IL
 4/8/2018,Celtics,,Guerschon Yabusele,placed on IL with sore left knee
-4/8/2018,Celtics,,Marcus Morris,placed on IL for rest
+4/8/2018,Celtics,,Marcus Morris Sr.,placed on IL for rest
 4/8/2018,Celtics,Al Horford,,activated from IL
 4/8/2018,Celtics,Jayson Tatum,,activated from IL
 4/8/2018,Jazz,Raulzinho Neto / Raul Neto,,activated from IL
@@ -12354,7 +12354,7 @@ Date,Team,Acquired,Relinquished,Notes
 4/9/2018,Raptors,Alfonzo McKinnie,,activated from IL
 4/9/2018,Raptors,Jonas Valanciunas,,activated from IL
 4/9/2018,Raptors,Lorenzo Brown,,activated from IL
-4/10/2018,Celtics,Marcus Morris,,activated from IL
+4/10/2018,Celtics,Marcus Morris Sr.,,activated from IL
 4/10/2018,Jazz,,David Stockton,placed on IL
 4/10/2018,Mavericks,,Dennis Smith Jr.,placed on IL with sore left knee (out for season)
 4/10/2018,Mavericks,,Harrison Barnes,placed on IL for rest
@@ -13038,7 +13038,7 @@ Date,Team,Acquired,Relinquished,Notes
 12/17/2018,Bucks,,Ersan Ilyasova,placed on IL with fractured nose
 12/17/2018,Bucks,D.J. Wilson,,activated from IL
 12/17/2018,Bulls,,Jabari Parker,placed on IL with stomach illness
-12/17/2018,Grizzlies,,Mike Conley Jr.,placed on IL with left hamstring injury
+12/17/2018,Grizzlies,,Mike Conley,placed on IL with left hamstring injury
 12/17/2018,Grizzlies,Kyle Anderson,,activated from IL
 12/17/2018,Kings,Skal Labissiere,,activated from IL
 12/17/2018,Pistons,Zaur Pachulia / Zaza Pachulia,,activated from IL
@@ -13053,11 +13053,11 @@ Date,Team,Acquired,Relinquished,Notes
 12/19/2018,76ers,,Jonah Bolden,placed on IL
 12/19/2018,Bucks,,,placed on IL
 12/19/2018,Bucks,Malcolm Brogdon,,activated from IL
-12/19/2018,Celtics,,Marcus Morris,placed on IR with sore right knee
+12/19/2018,Celtics,,Marcus Morris Sr.,placed on IR with sore right knee
 12/19/2018,Grizzlies,,Joakim Noah,placed on IL with right heel injury
 12/19/2018,Grizzlies,,Yuta Watanabe,placed on IL
 12/19/2018,Grizzlies,Chandler Parsons,,activated from IL
-12/19/2018,Grizzlies,Mike Conley Jr.,,activated from IL
+12/19/2018,Grizzlies,Mike Conley,,activated from IL
 12/19/2018,Kings,,Harry Giles,placed on IL
 12/19/2018,Pelicans,,Julius Randle,placed on IL with sprained right ankle
 12/19/2018,Raptors,Fred VanVleet,,activated from IL
@@ -13085,7 +13085,7 @@ Date,Team,Acquired,Relinquished,Notes
 12/23/2018,Bulls,Jabari Parker,,activated from IL
 12/23/2018,Cavaliers,,Rodney Hood,placed on IL with left Achilles injury
 12/23/2018,Celtics,Al Horford,,activated from IL
-12/23/2018,Celtics,Marcus Morris,,activated from IL
+12/23/2018,Celtics,Marcus Morris Sr.,,activated from IL
 12/23/2018,Grizzlies,,Omri Casspi,placed on IL with illness
 12/23/2018,Grizzlies,Dillon Brooks,,activated from IL
 12/23/2018,Hawks,,John Collins,placed on IL with sprained left ankle
@@ -13186,7 +13186,7 @@ Date,Team,Acquired,Relinquished,Notes
 1/3/2019,Warriors,Jacob Evans,,activated from IL
 1/4/2019,Bucks,,Donte DiVincenzo,placed on IL with sore right ankle/heel
 1/4/2019,Bucks,Ersan Ilyasova,,activated from IL
-1/4/2019,Celtics,,Marcus Morris,placed on IL with neck injury
+1/4/2019,Celtics,,Marcus Morris Sr.,placed on IL with neck injury
 1/4/2019,Magic,Jonathon Simmons,,activated from IL
 1/4/2019,Nets,Treveon Graham,,activated from IL
 1/4/2019,Timberwolves,Jeff Teague,,activated from IL
@@ -13200,7 +13200,7 @@ Date,Team,Acquired,Relinquished,Notes
 1/6/2019,Raptors,,Kawhi Leonard,placed on IL
 1/7/2019,Bucks,,D.J. Wilson,placed on IL
 1/7/2019,Celtics,Kyrie Irving,,activated from IL
-1/7/2019,Celtics,Marcus Morris,,activated from IL
+1/7/2019,Celtics,Marcus Morris Sr.,,activated from IL
 1/7/2019,Celtics,Robert Williams III,,activated from IL
 1/7/2019,Grizzlies,,Dillon Brooks,placed on IL with toe injury (out for season)
 1/7/2019,Grizzlies,Yuta Watanabe,,activated from IL
@@ -13439,7 +13439,7 @@ Date,Team,Acquired,Relinquished,Notes
 1/31/2019,Mavericks,,DeAndre Jordan,placed on IL
 1/31/2019,Mavericks,,Wesley Matthews / Wes Matthews Jr.,placed on IL
 2/1/2019,Celtics,Kyrie Irving,,activated from IL
-2/1/2019,Grizzlies,,Mike Conley Jr.,placed on IL with sore left knee
+2/1/2019,Grizzlies,,Mike Conley,placed on IL with sore left knee
 2/1/2019,Grizzlies,Yuta Watanabe,,activated from IL
 2/1/2019,Hawks,Tyler Dorsey,,activated from IL
 2/1/2019,Hornets,(William) Tony Parker,,activated from IL
@@ -13463,7 +13463,7 @@ Date,Team,Acquired,Relinquished,Notes
 2/2/2019,Spurs,,Lonnie Walker IV,placed on IL
 2/2/2019,Suns,Deandre Ayton,,activated from IL
 2/3/2019,Celtics,,Aron Baynes,placed on IL with bruised left foot
-2/3/2019,Grizzlies,Mike Conley Jr.,,activated from IL
+2/3/2019,Grizzlies,Mike Conley,,activated from IL
 2/3/2019,Knicks,,Mitchell Robinson,placed on IL with illness
 2/3/2019,Knicks,DeAndre Jordan,,activated from IL
 2/3/2019,Knicks,Wesley Matthews / Wes Matthews Jr.,,activated from IL
@@ -13974,7 +13974,7 @@ Date,Team,Acquired,Relinquished,Notes
 4/2/2019,Kings,Marvin Bagley III,,activated from IL
 4/2/2019,Rockets,Gerald Green (b),,activated from IL
 4/3/2019,76ers,Jimmy Butler,,activated from IL
-4/3/2019,Celtics,,Marcus Morris,placed on IL with sore left knee
+4/3/2019,Celtics,,Marcus Morris Sr.,placed on IL with sore left knee
 4/3/2019,Clippers,,Patrick Beverley,placed on IL with right hip pointer
 4/3/2019,Grizzlies,,Jonas Valanciunas,placed on IL with sprained right ankle (out for season)
 4/3/2019,Hawks,Taurean Prince,,activated from IL
@@ -13996,7 +13996,7 @@ Date,Team,Acquired,Relinquished,Notes
 4/4/2019,Lakers,,Kyle Kuzma,placed on IL with left foot injury (out for season)
 4/4/2019,Lakers,Tyson Chandler,,activated from IL
 4/4/2019,Warriors,,Andre Iguodala,placed on IL with toe injury
-4/5/2019,Celtics,Marcus Morris,,activated from IL
+4/5/2019,Celtics,Marcus Morris Sr.,,activated from IL
 4/5/2019,Hawks,,Kent Bazemore,placed on IL with strained left adductor
 4/5/2019,Heat,,Josh Richardson,placed on IL with strained left hip (out for season)
 4/5/2019,Heat,Derrick Jones Jr.,,activated from IL
@@ -14033,7 +14033,7 @@ Date,Team,Acquired,Relinquished,Notes
 4/9/2019,Celtics,,Aron Baynes,placed on IL with sore left ankle
 4/9/2019,Celtics,,Gordon Hayward,placed on IL with sore left ankle
 4/9/2019,Celtics,,Kyrie Irving,placed on IL with bruised right knee
-4/9/2019,Celtics,,Marcus Morris,placed on IL with right knee injury
+4/9/2019,Celtics,,Marcus Morris Sr.,placed on IL with right knee injury
 4/9/2019,Celtics,,Marcus Smart,placed on IL with torn left oblique
 4/9/2019,Celtics,Guerschon Yabusele,,activated from IL
 4/9/2019,Hornets,Marvin Williams,,activated from IL
@@ -14093,7 +14093,7 @@ Date,Team,Acquired,Relinquished,Notes
 4/13/2019,Raptors,,O.G. Anunoby,placed on IL with appendectomy
 4/14/2019,Bucks,Nikola Mirotic,,activated from IL
 4/14/2019,Celtics,Al Horford,,activated from IL
-4/14/2019,Celtics,Marcus Morris,,activated from IL
+4/14/2019,Celtics,Marcus Morris Sr.,,activated from IL
 4/14/2019,Jazz,Donovan Mitchell,,activated from IL
 4/14/2019,Jazz,Kyle Korver,,activated from IL
 4/14/2019,Jazz,Raulzinho Neto / Raul Neto,,activated from IL
@@ -14504,7 +14504,7 @@ Date,Team,Acquired,Relinquished,Notes
 12/2/2019,Hawks,,Allen Crabbe,placed on IL with illness
 12/2/2019,Hawks,Cameron Reddish / Cam Reddish,,activated from IL
 12/2/2019,Kings,Trevor Ariza,,activated from IL
-12/2/2019,Knicks,,Marcus Morris,placed on IL with neck spasms
+12/2/2019,Knicks,,Marcus Morris Sr.,placed on IL with neck spasms
 12/2/2019,Suns,,Cheick Diallo,placed on IL with illness
 12/2/2019,Suns,Ty Jerome,,activated from IL
 12/2/2019,Warriors,Kevon Looney,,activated from IL
@@ -14523,7 +14523,7 @@ Date,Team,Acquired,Relinquished,Notes
 12/4/2019,Hawks,,Chandler Parsons,placed on IL with flu
 12/4/2019,Hawks,,De'Andre Hunter,placed on IL with right index finger injury
 12/4/2019,Hawks,Kevin Huerter,,activated from IL
-12/4/2019,Jazz,,Mike Conley Jr.,placed on IL with left hamstring injury
+12/4/2019,Jazz,,Mike Conley,placed on IL with left hamstring injury
 12/4/2019,Kings,,Bogdan Bogdanovic,placed on IL with bruised right knee
 12/4/2019,Magic,,Michael Carter-Williams,placed on IL with nose injury
 12/4/2019,Suns,Cheick Diallo,,activated from IL
@@ -14531,7 +14531,7 @@ Date,Team,Acquired,Relinquished,Notes
 12/4/2019,Jazz,Juwan Morgan,,activated from IL
 12/5/2019,76ers,Trey Burke,,activated from IL
 12/5/2019,Knicks,Elfrid Payton,,activated from IL
-12/5/2019,Knicks,Marcus Morris,,activated from IL
+12/5/2019,Knicks,Marcus Morris Sr.,,activated from IL
 12/5/2019,Pacers,Edmond Sumner,,activated from IL
 12/5/2019,Rockets,Danuel House Jr.,,activated from IL
 12/5/2019,Wizards,,Jordan McRae,placed on IL with surgery on finger
@@ -14644,7 +14644,7 @@ Date,Team,Acquired,Relinquished,Notes
 12/17/2019,Hornets,,P.J. Washington,placed on IL with fractured finger
 12/17/2019,Hornets,Marvin Williams,,activated from IL
 12/17/2019,Jazz,,Nigel Williams-Goss,placed on IL
-12/17/2019,Jazz,Mike Conley Jr.,,activated from IL
+12/17/2019,Jazz,Mike Conley,,activated from IL
 12/17/2019,Kings,De'Aaron Fox,,activated from IL
 12/17/2019,Lakers,,Anthony Davis,placed on IL with sprained right ankle
 12/17/2019,Suns,,Tyler Johnson,placed on IL with illness
@@ -14661,7 +14661,7 @@ Date,Team,Acquired,Relinquished,Notes
 12/18/2019,Wizards,,Rui Hachimura,placed on IL with groin injury
 12/18/2019,Pacers,Alize Johnson,,activated from IL
 12/19/2019,Hawks,Chandler Parsons,,activated from IL
-12/19/2019,Jazz,,Mike Conley Jr.,placed on IL with left hamstring injury
+12/19/2019,Jazz,,Mike Conley,placed on IL with left hamstring injury
 12/19/2019,Lakers,Anthony Davis,,activated from IL
 12/20/2019,Grizzlies,Grayson Allen,,activated from IL
 12/20/2019,Heat,Goran Dragic,,activated from IL
@@ -14859,7 +14859,7 @@ Date,Team,Acquired,Relinquished,Notes
 1/7/2020,Cavaliers,Tristan Thompson,,activated from IL
 1/7/2020,Hawks,,Jabari Parker,placed on IL with right shoulder injury
 1/7/2020,Kings,,Richaun Holmes,placed on IL with sprained right shoulder
-1/7/2020,Knicks,,Marcus Morris,placed on IL with sore neck
+1/7/2020,Knicks,,Marcus Morris Sr.,placed on IL with sore neck
 1/7/2020,Thunder,,Danilo Gallinari,placed on IL with right calf injury
 1/7/2020,Warriors,Draymond Green,,activated from IL
 1/7/2020,Raptors,Matt Thomas,,activated from IL
@@ -14952,7 +14952,7 @@ Date,Team,Acquired,Relinquished,Notes
 1/16/2020,Celtics,Jayson Tatum,,activated from IL
 1/16/2020,Knicks,,Reggie Bullock,placed on IL with sore neck
 1/16/2020,Knicks,Frank Ntilikina,,activated from IL
-1/16/2020,Knicks,Marcus Morris,,activated from IL
+1/16/2020,Knicks,Marcus Morris Sr.,,activated from IL
 1/16/2020,Nuggets,,Jamal Murray,placed on IL with sprained left ankle
 1/16/2020,Suns,,Kelly Oubre Jr.,placed on IL with concussion
 1/16/2020,Warriors,,Jacob Evans,placed on IL with concussion
@@ -14968,7 +14968,7 @@ Date,Team,Acquired,Relinquished,Notes
 1/18/2020,Cavaliers,,John Henson,placed on IL with sore lower back
 1/18/2020,Celtics,,Kemba Walker,placed on IL with sore left knee
 1/18/2020,Clippers,,Maurice Harkless / Moe Harkless,placed on IL with sore lower back
-1/18/2020,Jazz,Mike Conley Jr.,,activated from IL
+1/18/2020,Jazz,Mike Conley,,activated from IL
 1/18/2020,Kings,Bogdan Bogdanovic,,activated from IL
 1/18/2020,Knicks,,RJ Barrett,placed on IL with sprained right ankle
 1/18/2020,Knicks,Reggie Bullock,,activated from IL
@@ -15090,7 +15090,7 @@ Date,Team,Acquired,Relinquished,Notes
 1/30/2020,Clippers,,Terance Mann,placed on IL
 1/30/2020,Clippers,Patrick Beverley,,activated from IL
 1/30/2020,Clippers,Paul George,,activated from IL
-1/30/2020,Jazz,,Mike Conley Jr.,placed on IL
+1/30/2020,Jazz,,Mike Conley,placed on IL
 1/30/2020,Jazz,,Tony Bradley,placed on IL with sprained right knee
 1/30/2020,Jazz,Nigel Williams-Goss,,activated from IL
 1/30/2020,Raptors,,Malcolm Miller,placed on IL with strained neck
@@ -15115,7 +15115,7 @@ Date,Team,Acquired,Relinquished,Notes
 2/1/2020,Heat,,Gabe Vincent,placed on IL
 2/1/2020,Heat,Kendrick Nunn,,activated from IL
 2/1/2020,Jazz,,Nigel Williams-Goss,placed on IL
-2/1/2020,Jazz,Mike Conley Jr.,,activated from IL
+2/1/2020,Jazz,Mike Conley,,activated from IL
 2/1/2020,Kings,,Dewayne Dedmon,placed on IL with flu
 2/1/2020,Knicks,,Frank Ntilikina,placed on IL with groin injury
 2/1/2020,Spurs,LaMarcus Aldridge,,activated from IL
@@ -15225,7 +15225,7 @@ Date,Team,Acquired,Relinquished,Notes
 2/10/2020,Hawks,Cameron Reddish / Cam Reddish,,activated from IL
 2/10/2020,Heat,,K.Z. Okpala,placed on IL
 2/10/2020,Heat,Jimmy Butler,,activated from IL
-2/10/2020,Jazz,,Mike Conley Jr.,placed on IL
+2/10/2020,Jazz,,Mike Conley,placed on IL
 2/10/2020,Pacers,,Edmond Sumner,placed on IL
 2/10/2020,Pistons,Brandon Knight,,activated from IL
 2/10/2020,Pistons,Markieff Morris,,activated from IL
@@ -15268,7 +15268,7 @@ Date,Team,Acquired,Relinquished,Notes
 2/21/2020,Cavaliers,,Alfonzo McKinnie,placed on IL with left foot injury
 2/21/2020,Cavaliers,Ante Zizic,,activated from IL
 2/21/2020,Celtics,,Kemba Walker,placed on IL with sore left knee
-2/21/2020,Jazz,Mike Conley Jr.,,activated from IL
+2/21/2020,Jazz,Mike Conley,,activated from IL
 2/21/2020,Knicks,,Elfrid Payton,placed on IL with sore right ankle
 2/21/2020,Magic,D.J. Augustine,,activated from IL
 2/21/2020,Nuggets,,Keita Bates-Diop,placed on IL
@@ -15566,7 +15566,7 @@ Date,Team,Acquired,Relinquished,Notes
 8/6/2020,Heat,,Gabe Vincent,placed on IL with sore right knee
 8/6/2020,Heat,,Goran Dragic,placed on IL with sprained left ankle
 8/6/2020,Jazz,,Donovan Mitchell,placed on IL with left leg injury
-8/6/2020,Jazz,,Mike Conley Jr.,placed on IL with sore right knee
+8/6/2020,Jazz,,Mike Conley,placed on IL with sore right knee
 8/6/2020,Jazz,,Royce O'Neale,placed on IL with right calf injury
 8/6/2020,Lakers,,Alex Caruso,placed on IL with neck spasms
 8/6/2020,Lakers,,LeBron James,placed on IL with right groin injury
@@ -15587,7 +15587,7 @@ Date,Team,Acquired,Relinquished,Notes
 8/8/2020,Jazz,,Emmanuel Mudiay,placed on IL with sore left knee
 8/8/2020,Jazz,,Juwan Morgan,placed on IL with sore right knee
 8/8/2020,Jazz,Donovan Mitchell,,activated from IL
-8/8/2020,Jazz,Mike Conley Jr.,,activated from IL
+8/8/2020,Jazz,Mike Conley,,activated from IL
 8/8/2020,Jazz,Royce O'Neale,,activated from IL
 8/8/2020,Kings,,Richaun Holmes,placed on IL with sore right hip (out for season)
 8/8/2020,Lakers,,Danny Green,placed on IL with right hip injury
@@ -15648,7 +15648,7 @@ Date,Team,Acquired,Relinquished,Notes
 8/12/2020,Celtics,,Jayson Tatum,placed on IL with sprained left ankle
 8/12/2020,Celtics,,Kemba Walker,placed on IL with left knee injury
 8/12/2020,Heat,,Kendrick Nunn,placed on IL with throat
-8/12/2020,Jazz,,Mike Conley Jr.,placed on IL with sore right knee
+8/12/2020,Jazz,,Mike Conley,placed on IL with sore right knee
 8/12/2020,Jazz,,Rudy Gobert,placed on IL with sore lower back
 8/12/2020,Jazz,Donovan Mitchell,,activated from IL
 8/12/2020,Jazz,Juwan Morgan,,activated from IL
@@ -15718,7 +15718,7 @@ Date,Team,Acquired,Relinquished,Notes
 8/20/2020,Thunder,Luguentz Dort,,activated from IL
 8/21/2020,Celtics,,Javonte Green,placed on IL with sprained right knee (out for season)
 8/21/2020,Raptors,,Rondae Hollis-Jefferson,placed on IL with left knee injury
-8/21/2020,Jazz,Mike Conley Jr.,,activated from IL
+8/21/2020,Jazz,Mike Conley,,activated from IL
 8/22/2020,Magic,,Melvin Frazier Jr.,placed on IL with sore lower back
 8/22/2020,Lakers,Rajon Rondo,,activated from IL
 8/23/2020,Raptors,Rondae Hollis-Jefferson,,activated from IL
@@ -15748,7 +15748,7 @@ Date,Team,Acquired,Relinquished,Notes
 10/2/2020,Heat,,Goran Dragic,placed on IL with torn plantar fascia in left foot (out for season)
 10/2/2020,Heat,Chris Silva,,activated from IL
 11/19/2020,Warriors,,Klay Thompson,placed on IL with torn right Achilles tendon (out for season)
-12/21/2020,Clippers,,Marcus Morris,placed on IL with sore right knee
+12/21/2020,Clippers,,Marcus Morris Sr.,placed on IL with sore right knee
 12/21/2020,Warriors,,Draymond Green,placed on IL with sore right foot
 12/21/2020,Wizards,,Rui Hachimura,placed on IL with eye injury
 12/22/2020,Cavaliers,,Kevin Love,placed on IL with right calf injury
@@ -15896,7 +15896,7 @@ Date,Team,Acquired,Relinquished,Notes
 1/5/2021,Rockets,,Kenyon Martin Jr. / K.J. Martin,placed on IL with conditioning
 1/5/2021,Spurs,LaMarcus Aldridge,,activated from IL
 1/6/2021,Celtics,Marcus Smart,,activated from IL
-1/6/2021,Clippers,Marcus Morris,,activated from IL
+1/6/2021,Clippers,Marcus Morris Sr.,,activated from IL
 1/6/2021,Heat,,Maurice Harkless / Moe Harkless,placed on IL with left forearm injury
 1/6/2021,Kings,Tyrese Haliburton,,activated from IL
 1/6/2021,Knicks,,Nerlens Noel,placed on IL with sprained left ankle
@@ -16105,7 +16105,7 @@ Date,Team,Acquired,Relinquished,Notes
 1/24/2021,Blazers,,Keljin Blevins,placed on IL
 1/24/2021,Cavaliers,,Lamar Stevens,placed on IL
 1/24/2021,Celtics,Aaron Nesmith,,activated from IL
-1/24/2021,Clippers,,Marcus Morris,placed on IL with illness
+1/24/2021,Clippers,,Marcus Morris Sr.,placed on IL with illness
 1/24/2021,Knicks,,Reggie Bullock,placed on IL with sore neck
 1/24/2021,Knicks,Austin Rivers,,activated from IL
 1/24/2021,Knicks,Frank Ntilikina,,activated from IL
@@ -16125,7 +16125,7 @@ Date,Team,Acquired,Relinquished,Notes
 1/25/2021,Clippers,,Kawhi Leonard,placed on IL with NBA health and safety protocols
 1/25/2021,Clippers,,Patrick Beverley,placed on IL with sore right knee
 1/25/2021,Clippers,,Paul George,placed on IL with NBA health and safety protocols
-1/25/2021,Clippers,Marcus Morris,,activated from IL
+1/25/2021,Clippers,Marcus Morris Sr.,,activated from IL
 1/25/2021,Hornets,,Nick Richards,placed on IL with sprained left ankle
 1/25/2021,Pistons,Blake Griffin,,activated from IL
 1/25/2021,Raptors,Kyle Lowry,,activated from IL
@@ -16251,7 +16251,7 @@ Date,Team,Acquired,Relinquished,Notes
 2/6/2021,Grizzlies,Grayson Allen,,activated from IL
 2/6/2021,Hawks,Onyeka Okongwu,,activated from IL
 2/6/2021,Hawks,Trae Young,,activated from IL
-2/6/2021,Jazz,,Mike Conley Jr.,placed on IL with right hamstring injury
+2/6/2021,Jazz,,Mike Conley,placed on IL with right hamstring injury
 2/6/2021,Knicks,,Nerlens Noel,placed on IL with sore left knee
 2/6/2021,Nets,,Kevin Durant,placed on IL with NBA health and safety protocols
 2/6/2021,Nets,,Kyrie Irving,placed on IL with right index finger injury
@@ -16363,7 +16363,7 @@ Date,Team,Acquired,Relinquished,Notes
 2/19/2021,Clippers,Nicolas Batum,,activated from IL
 2/19/2021,Clippers,Paul George,,activated from IL
 2/19/2021,Grizzlies,,Dillon Brooks,placed on IL with sore right thigh
-2/19/2021,Jazz,Mike Conley Jr.,,activated from IL
+2/19/2021,Jazz,Mike Conley,,activated from IL
 2/19/2021,Pistons,Sekou Doumbouya,,activated from IL
 2/19/2021,Raptors,Patrick McCaw,,activated from IL
 2/20/2021,Bulls,Adam Mokoka,,activated from IL
@@ -16423,7 +16423,7 @@ Date,Team,Acquired,Relinquished,Notes
 2/26/2021,Pistons,Jerami Grant,,activated from IL
 2/26/2021,Raptors,,Pascal Siakam,placed on IL with NBA health and safety protocols
 2/27/2021,Grizzlies,,Grayson Allen,placed on IL with concussion
-2/27/2021,Jazz,,Mike Conley Jr.,placed on IL with right hamstring injury
+2/27/2021,Jazz,,Mike Conley,placed on IL with right hamstring injury
 2/27/2021,Mavericks,Kristaps Porzingis,,activated from IL
 2/27/2021,Nets,,Kyrie Irving,placed on IL with right shoulder injury
 2/27/2021,Nuggets,P.J. Dozier,,activated from IL
@@ -16433,7 +16433,7 @@ Date,Team,Acquired,Relinquished,Notes
 2/28/2021,Celtics,,Jaylen Brown,placed on IL with sore left knee
 2/28/2021,Grizzlies,Justise Winslow,,activated from IL
 2/28/2021,Grizzlies,Killian Tillie,,activated from IL
-2/28/2021,Jazz,Mike Conley Jr.,,activated from IL
+2/28/2021,Jazz,Mike Conley,,activated from IL
 2/28/2021,Knicks,,Taj Gibson,placed on IL with sprained left ankle
 2/28/2021,Nuggets,,R.J. Hampton,placed on IL with NBA health and safety protocols
 3/1/2021,Nets,,Jeff Green,placed on IL with right shoulder injury
@@ -16574,7 +16574,7 @@ Date,Team,Acquired,Relinquished,Notes
 3/18/2021,Bulls,,Devon Dotson,placed on IL with NBA health and safety protocols
 3/18/2021,Hawks,Clint Capela,,activated from IL
 3/18/2021,Hawks,Onyeka Okongwu,,activated from IL
-3/18/2021,Jazz,,Mike Conley Jr.,placed on IL with right hamstring injury
+3/18/2021,Jazz,,Mike Conley,placed on IL with right hamstring injury
 3/18/2021,Knicks,,Immanuel Quickley,placed on IL with sore left ankle
 3/18/2021,Magic,Evan Fournier,,activated from IL
 3/18/2021,Mavericks,,Willie Cauley-Stein,placed on IL with NBA health and safety protocols
@@ -16585,7 +16585,7 @@ Date,Team,Acquired,Relinquished,Notes
 3/19/2021,Celtics,Kemba Walker,,activated from IL
 3/19/2021,Heat,Trevor Ariza,,activated from IL
 3/19/2021,Hornets,,Cody Zeller,placed on IL with bursitis in left shoulder
-3/19/2021,Jazz,Mike Conley Jr.,,activated from IL
+3/19/2021,Jazz,Mike Conley,,activated from IL
 3/19/2021,Kings,,Jahmi'us Ramsey,placed on IL with strained right hamstring
 3/19/2021,Lakers,Kostas Antetokounmpo,,activated from IL
 3/19/2021,Lakers,Marc Gasol,,activated from IL
@@ -16700,7 +16700,7 @@ Date,Team,Acquired,Relinquished,Notes
 3/27/2021,Celtics,,Kemba Walker,placed on IL with left knee injury
 3/27/2021,Clippers,,Rajon Rondo,placed on IL with right adductor injury
 3/27/2021,Clippers,Patrick Beverley,,activated from IL
-3/27/2021,Jazz,,Mike Conley Jr.,placed on IL with right hamstring injury
+3/27/2021,Jazz,,Mike Conley,placed on IL with right hamstring injury
 3/27/2021,Jazz,Matt Thomas,,activated from IL
 3/27/2021,Knicks,,Julius Randle,placed on IL with left thigh injury
 3/27/2021,Knicks,,Terrance Ferguson,placed on IL with NBA health and safety protocols
@@ -16717,7 +16717,7 @@ Date,Team,Acquired,Relinquished,Notes
 3/27/2021,Thunder,Josh Hall,,activated from IL
 3/27/2021,Magic,Jeff Teague,,activated from IL
 3/28/2021,Blazers,Damian Lillard,,activated from IL
-3/28/2021,Jazz,Mike Conley Jr.,,activated from IL
+3/28/2021,Jazz,Mike Conley,,activated from IL
 3/28/2021,Kings,,Hassan Whiteside,placed on IL with sore right knee
 3/28/2021,Knicks,,Mitchell Robinson,placed on IL with fractured right foot (out for season)
 3/28/2021,Magic,Otto Porter Jr.,,activated from IL
@@ -16826,7 +16826,7 @@ Date,Team,Acquired,Relinquished,Notes
 4/3/2021,Celtics,Romeo Langford,,activated from IL
 4/3/2021,Hornets,,Gordon Hayward,placed on IL with sprained right foot
 4/3/2021,Jazz,,Elijah Hughes,placed on IL with illness
-4/3/2021,Jazz,,Mike Conley Jr.,placed on IL with right hamstring injury
+4/3/2021,Jazz,,Mike Conley,placed on IL with right hamstring injury
 4/3/2021,Pacers,,Domantas Sabonis,placed on IL with sprained left ankle
 4/3/2021,Pacers,,Malcolm Brogdon,placed on IL with right hip injury
 4/3/2021,Pistons,Killian Hayes,,activated from IL
@@ -16849,7 +16849,7 @@ Date,Team,Acquired,Relinquished,Notes
 4/5/2021,Bulls,,Daniel Theis,placed on IL with NBA health and safety protocols
 4/5/2021,Celtics,Semi Ojeleye,,activated from IL
 4/5/2021,Grizzlies,,De'Anthony Melton,placed on IL with left leg injury
-4/5/2021,Jazz,Mike Conley Jr.,,activated from IL
+4/5/2021,Jazz,Mike Conley,,activated from IL
 4/5/2021,Kings,Hassan Whiteside,,activated from IL
 4/5/2021,Nets,,Blake Griffin,placed on IL with left knee injury
 4/5/2021,Nets,,Landry Shamet,placed on IL with sprained right ankle
@@ -17023,7 +17023,7 @@ Date,Team,Acquired,Relinquished,Notes
 4/17/2021,Bulls,Tomas Satoransky,,activated from IL
 4/17/2021,Celtics,,Jaylen Brown,placed on IL with illness
 4/17/2021,Jazz,,Donovan Mitchell,placed on IL with sprained right ankle
-4/17/2021,Jazz,,Mike Conley Jr.,placed on IL with sore right knee
+4/17/2021,Jazz,,Mike Conley,placed on IL with sore right knee
 4/17/2021,Jazz,,Rudy Gobert,placed on IL with bruised right knee
 4/17/2021,Lakers,Andre Drummond,,activated from IL
 4/17/2021,Lakers,Markieff Morris,,activated from IL
@@ -17061,7 +17061,7 @@ Date,Team,Acquired,Relinquished,Notes
 4/19/2021,Grizzlies,Justise Winslow,,activated from IL
 4/19/2021,Jazz,,Ersan Ilyasova,placed on IL with left hamstring injury
 4/19/2021,Jazz,Derrick Favors,,activated from IL
-4/19/2021,Jazz,Mike Conley Jr.,,activated from IL
+4/19/2021,Jazz,Mike Conley,,activated from IL
 4/19/2021,Jazz,Rudy Gobert,,activated from IL
 4/19/2021,Nets,,Nicolas Claxton / Nic Claxton,placed on IL with NBA health and safety protocols
 4/19/2021,Nets,,Reggie Perry,placed on IL with NBA health and safety protocols
@@ -17177,7 +17177,7 @@ Date,Team,Acquired,Relinquished,Notes
 4/27/2021,Bucks,Rodions Kurucs,,activated from IL
 4/27/2021,Celtics,,Kemba Walker,placed on IL with strained left oblique muscle
 4/27/2021,Hawks,Louis Williams / Lou Williams,,activated from IL
-4/27/2021,Jazz,,Mike Conley Jr.,placed on IL with right hamstring injury
+4/27/2021,Jazz,,Mike Conley,placed on IL with right hamstring injury
 4/27/2021,Thunder,Luguentz Dort,,activated from IL
 4/28/2021,76ers,(James) Mike Scott,,activated from IL
 4/28/2021,76ers,Danny Green,,activated from IL
@@ -17402,7 +17402,7 @@ Date,Team,Acquired,Relinquished,Notes
 5/14/2021,Grizzlies,,Jaren Jackson Jr.,placed on IL with left knee injury
 5/14/2021,Jazz,,Elijah Hughes,placed on IL
 5/14/2021,Jazz,Juwan Morgan,,activated from IL
-5/14/2021,Jazz,Mike Conley Jr.,,activated from IL
+5/14/2021,Jazz,Mike Conley,,activated from IL
 5/14/2021,Kings,,Richaun Holmes,placed on IL with sore right knee (out for season)
 5/14/2021,Kings,Robert Woodard II,,activated from IL
 5/14/2021,Nuggets,,Aaron Gordon,placed on IL with right calf injury
@@ -17490,7 +17490,7 @@ Date,Team,Acquired,Relinquished,Notes
 6/7/2021,Bucks,,Jordan Nwora,placed on IL with left thigh injury
 6/7/2021,Bucks,Justin Jackson (Aaron),,activated from IL
 6/7/2021,Suns,Ty-Shon Alexander,,activated from IL
-6/8/2021,Jazz,,Mike Conley Jr.,placed on IL with strained right hamstring
+6/8/2021,Jazz,,Mike Conley,placed on IL with strained right hamstring
 6/8/2021,Jazz,Elijah Hughes,,activated from IL
 6/9/2021,Bucks,,Sam Merrill,placed on IL with sprained right ankle
 6/9/2021,Hawks,,De'Andre Hunter,placed on IL with surgery on right knee (out for season)
@@ -17506,7 +17506,7 @@ Date,Team,Acquired,Relinquished,Notes
 6/16/2021,Clippers,,Kawhi Leonard,placed on IL with sprained right knee (out for season)
 6/16/2021,Jazz,,Elijah Hughes,placed on IL with illness (out for season)
 6/16/2021,Suns,,Chris Paul,placed on IL with COVID-19 protocols
-6/18/2021,Jazz,Mike Conley Jr.,,activated from IL
+6/18/2021,Jazz,Mike Conley,,activated from IL
 6/23/2021,Bucks,,Justin Jackson (Aaron),placed on IL with sprained right ankle
 6/23/2021,Bucks,Jordan Nwora,,activated from IL
 6/23/2021,Hawks,Cameron Reddish / Cam Reddish,,activated from IL
@@ -17609,7 +17609,7 @@ Date,Team,Acquired,Relinquished,Notes
 10/25/2021,Cavaliers,Dylan Windler,,activated from IL
 10/25/2021,Celtics,,Al Horford,placed on IL with strained left adductor
 10/25/2021,Celtics,Jaylen Brown,,activated from IL
-10/25/2021,Clippers,,Marcus Morris,placed on IL with sore left knee
+10/25/2021,Clippers,,Marcus Morris Sr.,placed on IL with sore left knee
 10/25/2021,Hawks,,De'Andre Hunter,placed on IL with illness
 10/25/2021,Heat,,Caleb Martin,placed on IL
 10/25/2021,Hornets,,P.J. Washington,placed on IL with sprained right knee
@@ -17647,7 +17647,7 @@ Date,Team,Acquired,Relinquished,Notes
 10/29/2021,Clippers,,Brandon Boston Jr. / B.J. Boston Jr.,placed on IL
 10/29/2021,Heat,,Caleb Martin,placed on IL
 10/29/2021,Hornets,P.J. Washington,,activated from IL
-10/29/2021,Jazz,,Mike Conley Jr.,placed on IL with right knee injury
+10/29/2021,Jazz,,Mike Conley,placed on IL with right knee injury
 10/29/2021,Mavericks,,JaQuori McLaughlin,placed on IL
 10/29/2021,Pacers,,Isaiah Jackson,placed on IL with hyperextended left knee
 10/29/2021,Pacers,DeJon Jarreau,,activated from IL
@@ -17671,7 +17671,7 @@ Date,Team,Acquired,Relinquished,Notes
 10/31/2021,Hornets,Terry Rozier,,activated from IL
 10/31/2021,Hornets,Vernon Carey Jr.,,activated from IL
 10/31/2021,Jazz,,Malik Fitts,placed on IL
-10/31/2021,Jazz,Mike Conley Jr.,,activated from IL
+10/31/2021,Jazz,Mike Conley,,activated from IL
 10/31/2021,Mavericks,Sterling Brown,,activated from IL
 10/31/2021,Pistons,,Cade Cunningham,placed on IL with right ankle injury
 10/31/2021,Pistons,Isaiah Livers,,activated from IL
@@ -17706,7 +17706,7 @@ Date,Team,Acquired,Relinquished,Notes
 11/3/2021,Mavericks,,JaQuori McLaughlin,placed on IL
 11/3/2021,Mavericks,Trey Burke,,activated from IL
 11/3/2021,Pacers,Malcolm Brogdon,,activated from IL
-11/3/2021,Pelicans,,Herbert Jones / Herb Jones (Keyshawn),placed on IL with concussion protocol
+11/3/2021,Pelicans,,Herbert Jones,placed on IL with concussion protocol
 11/3/2021,Spurs,,Jakob Poeltl,placed on IL with NBA health and safety protocols
 11/3/2021,Spurs,Doug McDermott,,activated from IL
 11/3/2021,Wizards,,Davis Bertans,placed on IL with sprained left ankle
@@ -17722,7 +17722,7 @@ Date,Team,Acquired,Relinquished,Notes
 11/5/2021,Hornets,,P.J. Washington,placed on IL with left elbow injury
 11/5/2021,Magic,Gary Harris,,activated from IL
 11/5/2021,Pacers,,Malcolm Brogdon,placed on IL with illness
-11/5/2021,Pelicans,,Herbert Jones / Herb Jones (Keyshawn),placed on IL with sprained left ankle
+11/5/2021,Pelicans,,Herbert Jones,placed on IL with sprained left ankle
 11/5/2021,Pistons,,Killian Hayes,placed on IL with sprained left thumb
 11/5/2021,Wizards,,Isaiah Todd,placed on IL
 11/5/2021,Nets,,Day'Ron Sharpe,placed on IL
@@ -17734,7 +17734,7 @@ Date,Team,Acquired,Relinquished,Notes
 11/6/2021,Mavericks,Kristaps Porzingis,,activated from IL
 11/6/2021,Warriors,,Andre Iguodala,placed on IL with left hip injury
 11/7/2021,Clippers,Keon Johnson,,activated from IL
-11/7/2021,Jazz,,Mike Conley Jr.,placed on IL with right knee injury
+11/7/2021,Jazz,,Mike Conley,placed on IL with right knee injury
 11/7/2021,Nuggets,,Michael Porter Jr.,placed on IL with sore lower back (surgery) (out for season)
 11/7/2021,Raptors,,Khem Birch,placed on IL with right knee injury
 11/7/2021,Raptors,Pascal Siakam,,activated from IL
@@ -17754,7 +17754,7 @@ Date,Team,Acquired,Relinquished,Notes
 11/8/2021,Nets,Day'Ron Sharpe,,activated from IL
 11/9/2021,Heat,,Markieff Morris,placed on IL with neck injury / whiplash
 11/9/2021,Jazz,,Malik Fitts,placed on IL
-11/9/2021,Jazz,Mike Conley Jr.,,activated from IL
+11/9/2021,Jazz,Mike Conley,,activated from IL
 11/9/2021,Pacers,Malcolm Brogdon,,activated from IL
 11/9/2021,Rockets,Danuel House Jr.,,activated from IL
 11/9/2021,Rockets,Eric Gordon,,activated from IL
@@ -17765,7 +17765,7 @@ Date,Team,Acquired,Relinquished,Notes
 11/10/2021,Knicks,,Nerlens Noel,placed on IL with sprained right knee
 11/10/2021,Knicks,Mitchell Robinson,,activated from IL
 11/10/2021,Pacers,,Caris LeVert,placed on IL with sore lower back
-11/10/2021,Pelicans,Herbert Jones / Herb Jones (Keyshawn),,activated from IL
+11/10/2021,Pelicans,Herbert Jones,,activated from IL
 11/10/2021,Pistons,Killian Hayes,,activated from IL
 11/10/2021,Rockets,,Alperen Sengun,placed on IL with illness
 11/10/2021,Spurs,,Devontae Cacok,placed on IL
@@ -17778,7 +17778,7 @@ Date,Team,Acquired,Relinquished,Notes
 11/11/2021,76ers,,Jaden Springer,placed on IL
 11/11/2021,76ers,Tobias Harris,,activated from IL
 11/11/2021,Bulls,,Nikola Vucevic,placed on IL with NBA health and safety protocols
-11/11/2021,Clippers,Marcus Morris,,activated from IL
+11/11/2021,Clippers,Marcus Morris Sr.,,activated from IL
 11/11/2021,Grizzlies,,Dillon Brooks,placed on IL with left hand injury
 11/11/2021,Heat,,Jimmy Butler,placed on IL with sprained right ankle
 11/11/2021,Heat,Max Strus,,activated from IL
@@ -17801,7 +17801,7 @@ Date,Team,Acquired,Relinquished,Notes
 11/13/2021,Cavaliers,Ruben Nembhard / R.J. Nembhard Jr.,,activated from IL
 11/13/2021,Celtics,,Al Horford,placed on IL with sore lower back
 11/13/2021,Celtics,,Josh Richardson,placed on IL with right knee injury
-11/13/2021,Clippers,,Marcus Morris,placed on IL
+11/13/2021,Clippers,,Marcus Morris Sr.,placed on IL
 11/13/2021,Clippers,Jay Scrubb,,activated from IL
 11/13/2021,Grizzlies,,Yves Pons,placed on IL
 11/13/2021,Grizzlies,Dillon Brooks,,activated from IL
@@ -17950,7 +17950,7 @@ Date,Team,Acquired,Relinquished,Notes
 11/22/2021,Timberwolves,McKinley Wright IV,,activated from IL
 11/23/2021,Clippers,,Jay Scrubb,placed on IL
 11/23/2021,Clippers,,Nicolas Batum,placed on IL with NBA health and safety protocols
-11/23/2021,Clippers,Marcus Morris,,activated from IL
+11/23/2021,Clippers,Marcus Morris Sr.,,activated from IL
 11/23/2021,Heat,,Marcus Garrett,placed on IL with right wrist tendinitis
 11/23/2021,Knicks,,Derrick Rose,placed on IL with sore right ankle
 11/23/2021,Mavericks,,Reggie Bullock,placed on IL with illness
@@ -18027,7 +18027,7 @@ Date,Team,Acquired,Relinquished,Notes
 11/28/2021,Thunder,,Kenrich Williams,placed on IL with sprained right ankle
 11/29/2021,Blazers,Trendon Watford,,activated from IL
 11/29/2021,Cavaliers,,Cedi Osman,placed on IL with sore lower back
-11/29/2021,Clippers,,Marcus Morris,placed on IL
+11/29/2021,Clippers,,Marcus Morris Sr.,placed on IL
 11/29/2021,Clippers,Brandon Boston Jr. / B.J. Boston Jr.,,activated from IL
 11/29/2021,Heat,,Jimmy Butler,placed on IL with tailbone injury
 11/29/2021,Heat,,Tyler Herro,placed on IL with body soreness
@@ -18063,7 +18063,7 @@ Date,Team,Acquired,Relinquished,Notes
 11/30/2021,Pacers,,Justin Holiday,placed on IL with NBA health and safety protocols
 12/1/2021,Bulls,,Coby White,placed on IL with NBA health and safety protocols
 12/1/2021,Clippers,Jay Scrubb,,activated from IL
-12/1/2021,Clippers,Marcus Morris,,activated from IL
+12/1/2021,Clippers,Marcus Morris Sr.,,activated from IL
 12/1/2021,Heat,,Bam Adebayo,placed on IL with surgery on right thumb to repair torn ligament
 12/1/2021,Heat,Tyler Herro,,activated from IL
 12/1/2021,Hornets,,Kai Jones,placed on IL
@@ -18349,7 +18349,7 @@ Date,Team,Acquired,Relinquished,Notes
 12/18/2021,Cavaliers,Ruben Nembhard / R.J. Nembhard Jr.,,activated from IL
 12/18/2021,Celtics,,Brodric Thomas,placed on IL with NBA health and safety protocols
 12/18/2021,Celtics,Bruno Fernando,,activated from IL
-12/18/2021,Clippers,,Marcus Morris,placed on IL with NBA health and safety protocols
+12/18/2021,Clippers,,Marcus Morris Sr.,placed on IL with NBA health and safety protocols
 12/18/2021,Clippers,Nicolas Batum,,activated from IL
 12/18/2021,Mavericks,,Eugene Omoruyi,placed on IL with right foot / toe injury
 12/18/2021,Mavericks,,Reggie Bullock,placed on IL with NBA health and safety protocols
@@ -18588,7 +18588,7 @@ Date,Team,Acquired,Relinquished,Notes
 12/27/2021,Celtics,Sam Hauser,,activated from IL
 12/27/2021,Clippers,,Moses Wright,placed on IL with NBA health and safety protocols
 12/27/2021,Clippers,,Nicolas Batum,placed on IL with sprained right ankle
-12/27/2021,Clippers,Marcus Morris,,activated from IL
+12/27/2021,Clippers,Marcus Morris Sr.,,activated from IL
 12/27/2021,Hawks,,Delon Wright,placed on IL with NBA health and safety protocols
 12/27/2021,Hawks,Trae Young,,activated from IL
 12/27/2021,Hornets,,Scottie Lewis,placed on IL with NBA health and safety protocols
@@ -18946,7 +18946,7 @@ Date,Team,Acquired,Relinquished,Notes
 1/6/2022,Hawks,,Chris Clemons,placed on IL with NBA health and safety protocols
 1/6/2022,Jazz,,Bojan Bogdanovic,placed on IL with finger injury
 1/6/2022,Jazz,,Donovan Mitchell,placed on IL with strained lower back
-1/6/2022,Jazz,,Mike Conley Jr.,placed on IL with right knee injury
+1/6/2022,Jazz,,Mike Conley,placed on IL with right knee injury
 1/6/2022,Jazz,,Rudy Gobert,placed on IL with NBA health and safety protocols
 1/6/2022,Mavericks,Trey Burke,,activated from IL
 1/6/2022,Pistons,,Frank Jackson,placed on IL with NBA health and safety protocols
@@ -19009,7 +19009,7 @@ Date,Team,Acquired,Relinquished,Notes
 1/8/2022,Jazz,,Malik Fitts,placed on IL with fractured right wrist
 1/8/2022,Jazz,Bojan Bogdanovic,,activated from IL
 1/8/2022,Jazz,Donovan Mitchell,,activated from IL
-1/8/2022,Jazz,Mike Conley Jr.,,activated from IL
+1/8/2022,Jazz,Mike Conley,,activated from IL
 1/8/2022,Jazz,Rudy Gay,,activated from IL
 1/8/2022,Knicks,,Damyean Dotson,placed on IL
 1/8/2022,Knicks,,Evan Fournier,placed on IL with left thigh injury
@@ -19286,7 +19286,7 @@ Date,Team,Acquired,Relinquished,Notes
 1/24/2022,Cavaliers,,Jarrett Allen,placed on IL with illness
 1/24/2022,Cavaliers,Rajon Rondo,,activated from IL
 1/24/2022,Jazz,,Bojan Bogdanovic,placed on IL with finger injury
-1/24/2022,Jazz,,Mike Conley Jr.,placed on IL with right knee injury
+1/24/2022,Jazz,,Mike Conley,placed on IL with right knee injury
 1/24/2022,Jazz,,Rudy Gobert,placed on IL with strained left calf
 1/24/2022,Jazz,Hassan Whiteside,,activated from IL
 1/24/2022,Knicks,,Mitchell Robinson,placed on IL with sprained left ankle
@@ -19299,7 +19299,7 @@ Date,Team,Acquired,Relinquished,Notes
 1/25/2022,76ers,Matisse Thybulle,,activated from IL
 1/25/2022,Bulls,,Derrick Jones Jr.,placed on IL with fractured finger
 1/25/2022,Jazz,Bojan Bogdanovic,,activated from IL
-1/25/2022,Jazz,Mike Conley Jr.,,activated from IL
+1/25/2022,Jazz,Mike Conley,,activated from IL
 1/25/2022,Kings,,Chimezie Metu,placed on IL with sore left knee
 1/25/2022,Lakers,Anthony Davis,,activated from IL
 1/25/2022,Nets,,Kyrie Irving,placed on IL ineligible
@@ -19722,7 +19722,7 @@ Date,Team,Acquired,Relinquished,Notes
 3/5/2022,Celtics,,Aaron Nesmith,placed on IL with sprained right ankle
 3/5/2022,Heat,Jimmy Butler,,activated from IL
 3/5/2022,Heat,P.J. Tucker,,activated from IL
-3/5/2022,Jazz,,Mike Conley Jr.,placed on IL with right knee injury
+3/5/2022,Jazz,,Mike Conley,placed on IL with right knee injury
 3/5/2022,Kings,Richaun Holmes,,activated from IL
 3/5/2022,Magic,,Jalen Suggs,placed on IL with sprained right ankle
 3/5/2022,Magic,Markelle Fultz,,activated from IL
@@ -19751,7 +19751,7 @@ Date,Team,Acquired,Relinquished,Notes
 3/7/2022,Cavaliers,,Jarrett Allen,placed on IL with fractured finger (out for season)
 3/7/2022,Hawks,,Kevin Huerter,placed on IL with sore left shoulder
 3/7/2022,Heat,Victor Oladipo,,activated from IL
-3/7/2022,Jazz,Mike Conley Jr.,,activated from IL
+3/7/2022,Jazz,Mike Conley,,activated from IL
 3/7/2022,Kings,,Jeremy Lamb,placed on IL with sore left hip
 3/7/2022,Kings,,Maurice Harkless / Moe Harkless,placed on IL with sprained right ankle
 3/7/2022,Magic,Wendell Carter Jr.,,activated from IL
@@ -19930,7 +19930,7 @@ Date,Team,Acquired,Relinquished,Notes
 3/19/2022,Bucks,,Giannis Antetokounmpo,placed on IL with sore right knee
 3/19/2022,Bucks,Pat Connaughton,,activated from IL
 3/19/2022,Grizzlies,,Ja Morant,placed on IL with sore right knee
-3/19/2022,Jazz,,Mike Conley Jr.,placed on IL with right knee injury
+3/19/2022,Jazz,,Mike Conley,placed on IL with right knee injury
 3/19/2022,Jazz,Donovan Mitchell,,activated from IL
 3/19/2022,Lakers,Carmelo Anthony,,activated from IL
 3/19/2022,Magic,Chuma Okeke,,activated from IL
@@ -19960,7 +19960,7 @@ Date,Team,Acquired,Relinquished,Notes
 3/21/2022,Celtics,,Robert Williams III,placed on IL with right knee injury
 3/21/2022,Celtics,Aaron Nesmith,,activated from IL
 3/21/2022,Heat,Jimmy Butler,,activated from IL
-3/21/2022,Jazz,Mike Conley Jr.,,activated from IL
+3/21/2022,Jazz,Mike Conley,,activated from IL
 3/21/2022,Jazz,Trent Forrest,,activated from IL
 3/21/2022,Lakers,,Talen Horton-Tucker,placed on IL with sprained left ankle
 3/21/2022,Lakers,Wayne Ellington,,activated from IL
@@ -20189,7 +20189,7 @@ Date,Team,Acquired,Relinquished,Notes
 4/6/2022,Clippers,,Luke Kennard,placed on IL with right hamstring injury
 4/6/2022,Clippers,Norman Powell,,activated from IL
 4/6/2022,Hawks,,Louis Williams / Lou Williams,placed on IL with lower back injury (out for season)
-4/6/2022,Jazz,,Mike Conley Jr.,placed on IL with right knee injury
+4/6/2022,Jazz,,Mike Conley,placed on IL with right knee injury
 4/6/2022,Jazz,,Royce O'Neale,placed on IL with right thumb injury
 4/6/2022,Jazz,Trent Forrest,,activated from IL
 4/6/2022,Knicks,,Quentin Grimes,placed on IL with sore right knee (out for season)
@@ -20232,7 +20232,7 @@ Date,Team,Acquired,Relinquished,Notes
 4/8/2022,Heat,,Omer Yurtseven,placed on IL with stomach illness
 4/8/2022,Heat,Dewayne Dedmon,,activated from IL
 4/8/2022,Heat,Kyle Lowry,,activated from IL
-4/8/2022,Jazz,Mike Conley Jr.,,activated from IL
+4/8/2022,Jazz,Mike Conley,,activated from IL
 4/8/2022,Mavericks,,Marquese Chriss,placed on IL with illness
 4/8/2022,Raptors,Yuta Watanabe,,activated from IL
 4/8/2022,Spurs,,Devin Vassell,placed on IL with sore left heel
@@ -20258,8 +20258,8 @@ Date,Team,Acquired,Relinquished,Notes
 4/10/2022,76ers,,Paul Millsap,placed on IL with illness
 4/10/2022,Bucks,,Giannis Antetokounmpo,placed on IL with sore right knee
 4/10/2022,Bucks,,Serge Ibaka,placed on IL with illness
-4/10/2022,Clippers,,Marcus Morris,placed on IL with sore left elbow (out for season)
-4/10/2022,Clippers,,Marcus Morris,placed on IL with illness (out for season)
+4/10/2022,Clippers,,Marcus Morris Sr.,placed on IL with sore left elbow (out for season)
+4/10/2022,Clippers,,Marcus Morris Sr.,placed on IL with illness (out for season)
 4/10/2022,Clippers,,Paul George,placed on IL with NBA health and safety protocols (out for season)
 4/10/2022,Grizzlies,,Dillon Brooks,placed on IL with right hip injury
 4/10/2022,Grizzlies,,Ja Morant,placed on IL with sore right knee
@@ -20285,7 +20285,7 @@ Date,Team,Acquired,Relinquished,Notes
 4/10/2022,Nuggets,Vlatko Cancar,,activated from IL
 4/10/2022,Nuggets,Zeke Nnaji,,activated from IL
 4/10/2022,Pelicans,,Devonte' Graham,placed on IL with sore right knee
-4/10/2022,Pelicans,,Herbert Jones / Herb Jones (Keyshawn),placed on IL with tibia injury
+4/10/2022,Pelicans,,Herbert Jones,placed on IL with tibia injury
 4/10/2022,Pelicans,,Jonas Valanciunas,placed on IL with sore right ankle
 4/10/2022,Pistons,,Cade Cunningham,placed on IL with right hip injury (out for season)
 4/10/2022,Pistons,,Cory Joseph,placed on IL with lumbar spine injury (out for season)
@@ -20304,7 +20304,7 @@ Date,Team,Acquired,Relinquished,Notes
 4/11/2022,Blazers,Kris Dunn,,activated from IL
 4/12/2022,Mavericks,,Luka Doncic,placed on IL with strained left calf
 4/12/2022,Pelicans,Brandon Ingram,,activated from IL
-4/12/2022,Pelicans,Herbert Jones / Herb Jones (Keyshawn),,activated from IL
+4/12/2022,Pelicans,Herbert Jones,,activated from IL
 4/12/2022,Pelicans,Jonas Valanciunas,,activated from IL
 4/13/2022,Heat,P.J. Tucker,,activated from IL
 4/13/2022,Mavericks,Maximilian Kleber / Maxi Kleber,,activated from IL
@@ -20457,7 +20457,7 @@ Date,Team,Acquired,Relinquished,Notes
 10/24/2022,Warriors,,Donte DiVincenzo,placed on IL with hamstring injury
 10/25/2022,Clippers,,Kawhi Leonard,placed on IL with right knee injury
 10/25/2022,Mavericks,,Tim Hardaway Jr.,placed on IL with foot injury
-10/25/2022,Pelicans,,Herbert Jones / Herb Jones (Keyshawn),placed on IL with hyperextended right knee
+10/25/2022,Pelicans,,Herbert Jones,placed on IL with hyperextended right knee
 10/25/2022,Pelicans,,Zion Williamson,placed on IL with bruised lower back
 10/25/2022,Rockets,Jae'Sean Tate,,activated from IL
 10/26/2022,Clippers,Paul George,,activated from IL
@@ -20527,7 +20527,7 @@ Date,Team,Acquired,Relinquished,Notes
 11/4/2022,Cavaliers,,Donovan Mitchell,placed on IL with sprained left ankle
 11/4/2022,Hornets,,Gordon Hayward,placed on IL with bruised left shoulder
 11/4/2022,Pelicans,Brandon Ingram,,activated from IL
-11/4/2022,Pelicans,Herbert Jones / Herb Jones (Keyshawn),,activated from IL
+11/4/2022,Pelicans,Herbert Jones,,activated from IL
 11/4/2022,Spurs,Devin Vassell,,activated from IL
 11/4/2022,Spurs,Keldon Johnson,,activated from IL
 11/4/2022,Suns,,Cameron Payne,placed on IL with left foot injury
@@ -20799,7 +20799,7 @@ Date,Team,Acquired,Relinquished,Notes
 11/30/2022,Thunder,,Shai Gilgeous-Alexander,placed on IL with bruised left hip
 12/1/2022,Hawks,,De'Andre Hunter,placed on IL with thigh injury
 12/1/2022,Hawks,,John Collins,placed on IL with sprained left ankle
-12/1/2022,Pelicans,,Herbert Jones / Herb Jones (Keyshawn),placed on IL with sore left ankle
+12/1/2022,Pelicans,,Herbert Jones,placed on IL with sore left ankle
 12/1/2022,Pistons,Jaden Ivey,,activated from IL
 12/2/2022,Cavaliers,Kevin Love,,activated from IL
 12/2/2022,Heat,Dewayne Dedmon,,activated from IL
@@ -20919,7 +20919,7 @@ Date,Team,Acquired,Relinquished,Notes
 12/12/2022,Wizards,Will Barton,,activated from IL
 12/13/2022,Bucks,,Jrue Holiday,placed on IL with illness
 12/13/2022,Jazz,Lauri Markkanen,,activated from IL
-12/13/2022,Pelicans,Herbert Jones / Herb Jones (Keyshawn),,activated from IL
+12/13/2022,Pelicans,Herbert Jones,,activated from IL
 12/14/2022,Bulls,Alex Caruso,,activated from IL
 12/14/2022,Clippers,,John Wall (Hildred),placed on IL with left knee injury
 12/14/2022,Heat,,Jimmy Butler,placed on IL with right knee injury
@@ -20998,8 +20998,8 @@ Date,Team,Acquired,Relinquished,Notes
 12/21/2022,Clippers,Reggie Jackson,,activated from IL
 12/21/2022,Lakers,LeBron James,,activated from IL
 12/21/2022,Mavericks,Tim Hardaway Jr.,,activated from IL
-12/21/2022,Nets,,Patrick Mills / Patty Mills,placed on IL with illness
-12/21/2022,Nets,Patrick Mills / Patty Mills,,activated from IL
+12/21/2022,Nets,,Patty Mills,placed on IL with illness
+12/21/2022,Nets,Patty Mills,,activated from IL
 12/21/2022,Timberwolves,,Kyle Anderson,placed on IL with back spasms
 12/21/2022,Timberwolves,Rudy Gobert,,activated from IL
 12/22/2022,Jazz,Collin Sexton,,activated from IL
@@ -21040,7 +21040,7 @@ Date,Team,Acquired,Relinquished,Notes
 12/26/2022,Heat,,Jimmy Butler,placed on IL with sprained right ankle
 12/26/2022,Nets,,Seth Curry,placed on IL with illness
 12/26/2022,Pacers,Aaron Nesmith,,activated from IL
-12/26/2022,Pelicans,,Herbert Jones / Herb Jones (Keyshawn),placed on IL with NBA health and safety protocols
+12/26/2022,Pelicans,,Herbert Jones,placed on IL with NBA health and safety protocols
 12/26/2022,Pelicans,,Trey Murphy III,placed on IL with illness
 12/26/2022,Pelicans,Larry Nance Jr.,,activated from IL
 12/26/2022,Pistons,,Marvin Bagley III,placed on IL with illness
@@ -21088,7 +21088,7 @@ Date,Team,Acquired,Relinquished,Notes
 12/30/2022,Nuggets,Aaron Gordon,,activated from IL
 12/30/2022,Nuggets,Jamal Murray,,activated from IL
 12/30/2022,Pelicans,,Larry Nance Jr.,placed on IL with neck spasms / bruised neck
-12/30/2022,Pelicans,Herbert Jones / Herb Jones (Keyshawn),,activated from IL
+12/30/2022,Pelicans,Herbert Jones,,activated from IL
 12/30/2022,Pistons,Marvin Bagley III,,activated from IL
 12/30/2022,Timberwolves,Kyle Anderson,,activated from IL
 1/1/2023,Bucks,,Giannis Antetokounmpo,placed on IL with sore left knee
@@ -21194,7 +21194,7 @@ Date,Team,Acquired,Relinquished,Notes
 1/14/2023,Mavericks,,Christian Wood,placed on IL with sprained right ankle
 1/15/2023,76ers,Tobias Harris,,activated from IL
 1/15/2023,Blazers,Nassir Little,,activated from IL
-1/15/2023,Clippers,,Marcus Morris,placed on IL with bruised left knee
+1/15/2023,Clippers,,Marcus Morris Sr.,placed on IL with bruised left knee
 1/15/2023,Clippers,,Moussa Diabate,placed on IL with illness
 1/15/2023,Kings,Kevin Huerter,,activated from IL
 1/15/2023,Mavericks,,Luka Doncic,placed on IL with sore left ankle
@@ -21209,7 +21209,7 @@ Date,Team,Acquired,Relinquished,Notes
 1/16/2023,Pacers,Myles Turner,,activated from IL
 1/16/2023,Wizards,Vernon Carey Jr.,,activated from IL
 1/17/2023,Bucks,Joe Ingles,,activated from IL
-1/17/2023,Clippers,Marcus Morris,,activated from IL
+1/17/2023,Clippers,Marcus Morris Sr.,,activated from IL
 1/17/2023,Clippers,Moussa Diabate,,activated from IL
 1/17/2023,Clippers,Paul George,,activated from IL
 1/17/2023,Nets,,Kyrie Irving,placed on IL with right calf injury
