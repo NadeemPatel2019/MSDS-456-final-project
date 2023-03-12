@@ -1,0 +1,75 @@
+
+```{r setup, include=FALSE}
+# Pre-load libraries
+
+knitr::opts_chunk$set(echo = TRUE)
+library(fBasics)
+library(fpp2)
+library(tidyverse)
+library(lubridate)
+library(prophet)
+library(forecast)
+library(fBasics)
+library(ggplot2)
+
+
+library(magrittr)
+library(dplyr)
+library(tidyverse)
+library(caTools)
+
+library(nbastatR)
+
+library(caret)
+library(MASS)
+library(reshape2)
+library(cluster)
+
+library(factoextra)
+
+library(ggfortify)
+
+library(rlist)
+
+library(hrbrthemes)
+
+library(data.table)
+#options(digits=4)
+```
+
+
+
+
+
+**2. Looking at page 255 (Figure 28.4) in Mathletics, conduct a similar analysis that determines the relative importance of each of the four factors. Based on your findings, how many games should we have won last year?**
+
+Let's read in general Lakers team stats from the 2021-22 and 2-22-23 seasons.
+
+```{r}
+lakers_ff <- read.csv(file = 'lakers_four_factors.csv')
+
+colnames(lakers_ff)
+```
+
+```{r}
+EFG <- (lakers_ff$FG + (0.5 * lakers_ff$X3P))/lakers_ff$FGA
+OppEFG <- (lakers_ff$OppFG + (0.5 * lakers_ff$Opp3P))/lakers_ff$OppFGA
+DiffEFG <- EFG - OppEFG
+
+TPP <- lakers_ff$TOV / (lakers_ff$FGA + (0.44 * lakers_ff$FTA) + lakers_ff$TOV)
+OppTPP <- lakers_ff$OppTOV / (lakers_ff$OppFGA + (0.44 * lakers_ff$OppFTA) + lakers_ff$OppTOV)
+DiffTPP <- TPP - OppTPP
+
+ORP <- lakers_ff$ORB / (lakers_ff$ORB + lakers_ff$OppDRB)
+DRP <- lakers_ff$DRB / (lakers_ff$OppORB + lakers_ff$DRB)
+DiffRP <- ORP - DRP
+
+FTR <- lakers_ff$FT / lakers_ff$FGA
+OppFTR <- lakers_ff$OppFT/lakers_ff$OppFGA
+DiffFTR <- FTR - OppFTR
+
+games_won <- 59.05 + (383.31*(DiffEFG)) - (244.36*(DiffTPP)) + (34.49*(DiffRP)) + (84.27*(DiffFTR))
+games_won
+```
+
+
