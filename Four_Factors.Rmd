@@ -73,3 +73,4 @@ games_won
 ```
 
 
+Based on the Mathletics formula and using the Four Factors, the Los Angeles Lakers were projected to win 37 games in 2021-22 (record was 33-49), and are projected to win 42 games this season (they are currently 32-34 as of this morning on March 10,2023).
