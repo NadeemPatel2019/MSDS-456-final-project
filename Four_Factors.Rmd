@@ -74,3 +74,44 @@ games_won
 
 
 Based on the Mathletics formula and using the Four Factors, the Los Angeles Lakers were projected to win 37 games in 2021-22 (record was 33-49), and are projected to win 42 games this season (they are currently 32-34 as of this morning on March 10,2023).
+
+
+
+-------------- Building our own model: -----------------
+
+
+```{r}
+four_factors_2021_22_df <- read.csv(file = 'four_factors_2021_22.csv')
+model_four_factors_2021_22 <- lm(W ~ DIFF_EFG_PCT + DIFF_TOV_PCT + DIFF_REB_PCT + DIFF_FTA_RATE, 
+                                 data=four_factors_2021_22_df)
+summary(model_four_factors_2021_22)
+```
+
+Predict Lakers 2021-22 win record
+
+```{r}
+lakers_ff_2021_22_df <- four_factors_2021_22_df[four_factors_2021_22_df$TEAM_ID == 1610612747,]
+predictions <- predict(model_four_factors_2021_22, newdata=lakers_ff_2021_22_df)
+predictions
+```
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
