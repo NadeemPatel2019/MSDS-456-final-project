@@ -95,7 +95,7 @@ predictions <- predict(model_four_factors_2021_22, newdata=lakers_ff_2021_22_df)
 predictions
 ```
 
-
+Based on the 2021-22 NBA season Four Factors data and model, the Los Angeles Lakers were projected to win 32 games in 2021-22, winning one more game than predicted (record was 33-49).
 
 
 
